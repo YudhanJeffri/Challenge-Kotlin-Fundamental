@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="EasyValidation-master">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../EasyValidation-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../EasyValidation-master.zip!/EasyValidation-master/easyvalidation-core/src/androidTest/java" />
+      <root url="jar://$PROJECT_DIR$/../EasyValidation-master.zip!/EasyValidation-master/easyvalidation-core/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../EasyValidation-master.zip!/EasyValidation-master/easyvalidation-toasts/src/androidTest/java" />
+      <root url="jar://$PROJECT_DIR$/../EasyValidation-master.zip!/EasyValidation-master/easyvalidation-toasts/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
